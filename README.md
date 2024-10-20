@@ -10,9 +10,6 @@ One of the key features of this GPT is its ability to provide clear, step-by-ste
 Additionally, it is a reliable troubleshooting resource. If you encounter problems with your hardware, it offers logical suggestions for diagnosing and fixing the issue. From common problems like hardware not being recognized to more specific challenges like GPU issues or software conflicts, this GPT assists in solving the problem. Overall, it focuses on practicality, ensuring users get the most out of their hardware projects with clear, actionable advice.
 
 #
-![Hardware](https://github.com/user-attachments/assets/13503655-bb44-44b9-b0e9-72543959a349)
-
-#
 ### Related Links
 
 [ChatGPT](https://github.com/sourceduty/ChatGPT)
