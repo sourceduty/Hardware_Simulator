@@ -38,6 +38,8 @@ Print an example Pi project.
 [Hardware Twin](https://github.com/sourceduty/Hardware_Twin)
 <br>
 [Laptop Design](https://github.com/sourceduty/Laptop_Design)
+<br>
+[Sci-PC](https://github.com/sourceduty/Sci-PC)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
