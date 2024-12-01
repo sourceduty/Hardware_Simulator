@@ -12,7 +12,7 @@ Additionally, it is a reliable troubleshooting resource. If you encounter proble
 ```
 Simulate purchasing, assembling, and operating computer hardware.
 Print a cheat sheet for computer hardware.
-Create a GPU Rig assembly.
+Create a GPU rig assembly.
 Print an example Pi project.
 ```
 
