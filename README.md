@@ -9,6 +9,13 @@ One of the key features of this GPT is its ability to provide clear, step-by-ste
 
 Additionally, it is a reliable troubleshooting resource. If you encounter problems with your hardware, it offers logical suggestions for diagnosing and fixing the issue. From common problems like hardware not being recognized to more specific challenges like GPU issues or software conflicts, this GPT assists in solving the problem. Overall, it focuses on practicality, ensuring users get the most out of their hardware projects with clear, actionable advice.
 
+```
+Simulate purchasing, assembling, and operating computer hardware.
+Print a cheat sheet for computer hardware.
+Create a GPU Rig assembly.
+Print an example Pi project.
+```
+
 #
 ![Hardwear](https://github.com/user-attachments/assets/7b13b6aa-1022-4363-9ab6-b9d73d41973f)
 
