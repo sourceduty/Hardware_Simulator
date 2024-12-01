@@ -36,6 +36,8 @@ Print an example Pi project.
 [Cluster Computing](https://github.com/sourceduty/Cluster_Computing)
 <br>
 [Hardware Twin](https://github.com/sourceduty/Hardware_Twin)
+<br>
+[Laptop Design](https://github.com/sourceduty/Laptop_Design)
 
 ***
 Copyright (C) 2024, Sourceduty - All Rights Reserved.
